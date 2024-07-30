@@ -1,0 +1,16 @@
+{
+  "name": "kartvya",
+  "version": "1.0.0",
+  "description": "amazing code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "kartvya",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
